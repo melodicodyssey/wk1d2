@@ -1,0 +1,23 @@
+~p1
+You want to make scrambled eggs this morning.
+
+Do you...
+
+~p1:c1:p2
+Use Gordon Ramsey's recipe?
+~p1:c2:p3
+Whip up your own thing?
+~p1:c3:p4
+Call your friend for a recipe?
+
+~p2
+Success! The eggs are super fluffy and delicious. You are full and ready
+for the day.
+
+~p3
+You are not hungry this morning, but your taste buds are crying for better.
+
+~p4
+You got tied up in a conversation with your friend arguing about the
+merits of your recipe vs Gordon's. As a result you spent $15 on a lame 
+breakfast at the café, because you had no time to cook.

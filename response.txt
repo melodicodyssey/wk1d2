@@ -1,0 +1,13 @@
+You want to make scrambled eggs this morning.
+
+Do you...
+
+1: Use Gordon Ramsey's recipe?
+2: Whip up your own thing?
+3: Call your friend for a recipe?
+
+You chose option 1
+
+Success! The eggs are super fluffy and delicious. You are full and ready
+for the day.
+
